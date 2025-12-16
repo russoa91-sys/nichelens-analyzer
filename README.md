@@ -85,7 +85,7 @@ The system is designed so **real AI services (Gemini, OpenAI, etc.) can be plugg
 ## 🌐 Live Demo
 
 Deployed on Vercel  
-👉 *(Add your Vercel URL here)*
+👉 *([Add your Vercel URL here](https://nichelens-analyzer.vercel.app/))*
 
 ---
 
